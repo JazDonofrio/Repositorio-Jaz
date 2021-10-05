@@ -83,7 +83,7 @@ colores.insert(1, colNuevo)
 print(colores)
 
 #- Mostrale por consola al usuario el color que se encuentra en la posicion 3.
-print("El color en la 3ra posicion es: " + colores[3])
+print("El color en la 3ra posicion es: ", colores[3])
 
 #- Eliminar el ultimo color de la lista.
 colores.pop()
