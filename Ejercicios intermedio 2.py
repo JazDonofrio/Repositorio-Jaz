@@ -10,10 +10,10 @@
 menuUsuario = """
     --Menu de Usuario--
     
-    1-> mostrar un numero.
-    2-> mostrar una frase.
-    3-> mostrar opción seleccionada.
-    4-> salir del sistema.
+    1 >>> mostrar un numero.
+    2 >>> mostrar una frase.
+    3 >>> mostrar opción seleccionada.
+    4 >>> salir del sistema.
 """
 print(menuUsuario)
 
