@@ -32,3 +32,4 @@
 #       6- Salir del sistema
 
 #     Generar en cada opción el codigo acorde para qur se cumpla la acción.  
+print("Hola")
