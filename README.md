@@ -1,2 +1,2 @@
 # Repositorio-Jaz
-# Mi primer repositorio
+Mi primer repositorio
