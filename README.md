@@ -1,2 +1,4 @@
 # Repositorio-Jaz
-Mi primer repositorio
+## Mi primer repositorio
+
+Ejercicios basicos para practicar Python.
